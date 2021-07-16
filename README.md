@@ -1,2 +1,2 @@
-# django.io
+# django.github.io
 test
